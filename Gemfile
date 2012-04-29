@@ -4,6 +4,7 @@ gem 'rails', '3.2.3'
 gem 'eventmachine'
 gem 'execjs'
 gem 'therubyracer'
+gem 'heroku'
 
 group :development, :test do
   gem 'sqlite3', '1.3.5'
